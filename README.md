@@ -8,7 +8,7 @@
 
 ### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
 ### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
-### 📍 Part 3: Ticket Lifecycle Examples
+### 📍 Part 3: Ticket Lifecycle Demo
 
 </div>
 
@@ -99,6 +99,6 @@ After the agent has been assigned to this particular ticket, the admin sets the 
 
 ### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
 ### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
-### 📍 Part 3: Ticket Lifecycle Examples
+### 📍 Part 3: Ticket Lifecycle Demo
 
 </div>
