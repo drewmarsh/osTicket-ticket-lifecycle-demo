@@ -7,7 +7,7 @@
 <div align="center">
 
 ### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
-### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration/tree/main)
+### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
 ### 📍 Part 3: Ticket Lifecycle Examples
 
 </div>
@@ -95,3 +95,11 @@ After the agent has been assigned to this particular ticket, the admin sets the 
 3. To view tickets that have been closed, Agents can navigate to `Tickets` > `Closed` > and then click the appropriate time frame that this ticket is from. From here, the Agent should see closed ticket in question.
 
 <img src="/images/viewing-closed-ticket.png" alt="Viewing Closed Ticket">
+
+<br><div align="center">
+
+### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
+### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
+### 📍 Part 3: Ticket Lifecycle Examples
+
+</div>
