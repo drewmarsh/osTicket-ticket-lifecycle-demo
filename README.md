@@ -14,7 +14,6 @@
 
 # 🧠 Technologies Used
 - osTicket (Help Desk Ticketing System)
-- Ticket Lifecycle
 - Microsoft Azure (Cloud Computing)
 - Remote Desktop
 - Windows 10 Professional x64 22H2
