@@ -4,9 +4,13 @@
   </a>
 </p>
 
-### 👉 [Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
-### 👉 [Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration/tree/main)
+<div align="center">
 
+### 👉 [Part 1: Prerequisites & osTicket Installation](https://github.com/drewmarsh/osTicket-installation)
+### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration/tree/main)
+### 📍 Part 3: Ticket Lifecycle Examples
+
+</div>
 
 # 🧠 Technologies Used
 - osTicket (Help Desk Ticketing System)
