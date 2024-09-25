@@ -41,7 +41,7 @@ In the end-user-created ticket example below, `Jane Doe` (best reached at `jane.
 ### 💬 Assignment & Communication
 1. Navigate to `localhost/osTicket/scp/login.php` and enter the credentials for the administrator that will assign an Agent to work on the ticket created during Intake.
 
-<img src="/images/admin-credentials.png" alt="Admin Credentials">
+<img src="/images/admin-credentials.jpg" alt="Admin Credentials">
 
 2. Navigate to `Tickets` > ` Open` and then open the ticket by clicking the ticket number under the **Ticket** column.
 
